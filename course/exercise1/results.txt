@@ -1,0 +1,6 @@
+H =    0  parameters =    2  train MSE = 0.714
+H =    1  parameters =    4  train MSE = 0.493
+H =    2  parameters =    7  train MSE = 0.231
+H =    5  parameters =   16  train MSE = 0.097
+H =   20  parameters =   61  train MSE = 0.075
+H =  100  parameters =  301  train MSE = 0.091

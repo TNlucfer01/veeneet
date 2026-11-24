@@ -58,7 +58,6 @@ def _t(a):
 
 def make_net(hidden):
     """One hidden layer of `hidden` sigmoid units; input and output are scalars.
-
     hidden=0 gives a network with no hidden layer at all, i.e. a straight line.
     """
     if hidden == 0:

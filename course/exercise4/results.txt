@@ -1,0 +1,7 @@
+  lambda  train MSE    val MSE
+   0e+00     0.0108     0.2909
+   1e-04     0.0292     0.1912
+   1e-03     0.0857     0.1533
+   1e-02     0.6371     0.9318
+   1e-01     0.6709     0.9082
+smallest validation loss at lambda = 0.001

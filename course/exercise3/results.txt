@@ -1,0 +1,4 @@
+smallest validation loss at epoch 1003
+  at epoch  1003: train = 0.0483  val = 0.1565
+  at epoch 20000: train = 0.0108  val = 0.2909
+early-stopped network: train = 0.0482  val = 0.1565

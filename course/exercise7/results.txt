@@ -1,0 +1,7 @@
+optimiser     lr  first epoch < 0.2  final train  final val
+      sgd   0.01              10334       0.1233     0.1839
+      sgd    0.1               1036       0.0879     0.1842
+      sgd    0.3               2278       0.0313     0.1840
+      sgd      1              never    4176.8666  4134.6449
+     adam   0.01                253       0.0108     0.2909
+     adam  0.001               2168       0.0160     0.2214
